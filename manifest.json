@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "GTmetrix Analyzer Plugin",
-  "description": "This extension will analyze a page using GTmetrix",
+  "name": "Tab counter",
+  "description": "This extension will count the number of tab you have",
   "version": "1.0",
 
   "browser_action": {
